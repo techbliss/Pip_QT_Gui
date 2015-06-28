@@ -15,3 +15,5 @@ depends on PyQt 4.8.7.
 download here http://www.riverbankcomputing.com/software/pyqt/download.
 
 there is a prebuilt Binary package included pips.exe
+
+REMEMBER to have python27\scripts in your PATH
